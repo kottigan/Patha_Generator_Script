@@ -4,10 +4,12 @@ Generates Patha ( eg krama patha , ghana patha .. ) for the seperated audio file
 
 Place Beep.mp3 in folder above the script 
 
-the only script require is 
-pata_script.rb
-it is a combined script
+The only script require is 
+pata_script.rb (it is a combined script to generate all the Pathas )
 
-the script should be placed in the seperated audio files in a folder
-their should be no other files except seperated files. 
-numbered files only allowed ( e.g. 1.mp3 2.mp3 3.mp3 ... )
+The script should be placed in the seperated audio files in a folder,
+Their should not be any files except seperated files. 
+The seperated files should be numbered files ( e.g. 1.mp3 2.mp3 3.mp3 ... )
+
+
+The result files will be in the folder above the seperated audio files folder.
